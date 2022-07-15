@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1> PIPELINE COMPLETED SUCCESSFULLY </h1>  
+    <h1> PIPELINE COMPLETED Partial Success </h1>  
     <h1>NEW USER RESISTRATION FOR -- DEVOPS LEARNING...!!!!!</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
